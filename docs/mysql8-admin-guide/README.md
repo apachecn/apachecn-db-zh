@@ -28,7 +28,7 @@
 
 ### 其他
 
-*   在我们的 [apachecn/{repo}](https://github.com/apachecn/apachecn-db-zh) github 上提 issue.
+*   在我们的 [apachecn/apachecn-db-zh](https://github.com/apachecn/apachecn-db-zh) github 上提 issue.
 *   发邮件到 Email: `apachecn@163.com`.
 *   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
 
