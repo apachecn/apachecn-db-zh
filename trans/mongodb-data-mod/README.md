@@ -1,6 +1,6 @@
-# 精通 PHPMyAdmin 3.4 高效 MySQL 管理
+# MongoDB 数据建模
 
-> 原文：[Mastering phpMyAdmin 3.4 for Effective MySQL Management](https://libgen.rs/book/index.php?md5=3B102B7D75B6F6D265E7C3CE6613ECC1)
+> 原文：[MongoDB Data Modeling](https://libgen.rs/book/index.php?md5=3D36993E61CA808CF2348E9B049B1823)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 

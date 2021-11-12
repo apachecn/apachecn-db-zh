@@ -1,6 +1,6 @@
-# 精通 PHPMyAdmin 3.4 高效 MySQL 管理
+# MongoDB 基础知识
 
-> 原文：[Mastering phpMyAdmin 3.4 for Effective MySQL Management](https://libgen.rs/book/index.php?md5=3B102B7D75B6F6D265E7C3CE6613ECC1)
+> 原文：[MongoDB Fundamentals](https://libgen.rs/book/index.php?md5=804E58DCB5DC268F1AD8C416CF504A25)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 

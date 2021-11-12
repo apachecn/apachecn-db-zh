@@ -1,6 +1,6 @@
-# 精通 PHPMyAdmin 3.4 高效 MySQL 管理
+# MySQL8 管理手册
 
-> 原文：[Mastering phpMyAdmin 3.4 for Effective MySQL Management](https://libgen.rs/book/index.php?md5=3B102B7D75B6F6D265E7C3CE6613ECC1)
+> 原文：[MMYSQL 8 Administrator’s Guide](https://libgen.rs/book/index.php?md5=D5BC20BC3D7872C6C7F5062A8EE852A4)
 > 
 > 协议：[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 
