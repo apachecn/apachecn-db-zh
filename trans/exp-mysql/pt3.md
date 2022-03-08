@@ -1,6 +1,6 @@
 第三部分
 
-![image](images/frontdot.jpg)
+![image](img/frontdot.jpg)
 
 高级数据库内部
 

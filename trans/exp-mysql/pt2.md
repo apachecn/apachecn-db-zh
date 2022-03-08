@@ -1,6 +1,6 @@
 第二部分
 
-![image](images/frontdot.jpg)
+![image](img/frontdot.jpg)
 
 扩展 MySQL
 
