@@ -8,19 +8,6 @@
 * [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
 * [ApacheCN 学习资源](http://docs.apachecn.org/)
 
-## 目录
-
-+   [创建你的 Mysql 数据库](docs/create-your-mysql-db/SUMMARY.md)
-+   [Redis 学习手册](docs/learn-redis/SUMMARY.md)
-+   [精通 MongoDB 4.x](docs/master-mongodb-4x/SUMMARY.md)
-+   [精通 PHPMyAdmin 3.4 高效 MySQL 管理](docs/master-phpma-34-effec-mysql-mgt/SUMMARY.md)
-+   [MongoDB 秘籍](docs/mongodb-cb/SUMMARY.md)
-+   [MongoDB 数据建模](docs/mongodb-data-mod/SUMMARY.md)
-+   [MongoDB 基础知识](docs/mongodb-fund/SUMMARY.md)
-+   [MySQL8 管理手册](docs/mysql8-admin-guide/SUMMARY.md)
-+   [MySQL8 秘籍](docs/mysql8-cb/SUMMARY.md)
-+   [MySQL 管理手册](docs/mysql-mgt-admin/SUMMARY.md)
-
 ## 贡献指南
 
 本项目需要校对，欢迎大家提交 Pull Request。
