@@ -1,3 +1,4 @@
++   [InnoDB 集群入门指南](README.md)
 +   [一、高可用性简介](01.md)
 +   [二、什么是 MySQL InnoDB 集群？](02.md)
 +   [三、MySQL 组复制](03.md)
@@ -8,4 +9,3 @@
 +   [八、示例应用](08.md)
 +   [九、InnoDB 集群管理](09.md)
 +   [十、规划您的部署](10.md)
-+   [InnoDB 集群入门指南](README.md)
